@@ -29,7 +29,7 @@
 
   # set paths
   ROOT = %pwd
-  LOG_DIR = os.path.join(ROOT, 'log')
+  LOG_DIR = os.path.join(ROOT, 'model/train_log')
 
   # will install `ngrok`, if necessary
   # will create `log_dir` if path does not exist
